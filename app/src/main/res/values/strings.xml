@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">kchallenge-kotlin</string>
+    <string name="movie_image">movie image</string>
+</resources>
