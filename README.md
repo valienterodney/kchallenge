@@ -24,6 +24,6 @@ Android Studio Arctic Fox | 2020.3.1 Patch 2
 gradle:7.0.2
 
 ## Screenshots
-|<img src=screenshots/mvvm_architecture.png width = "350"> |
+|<img src=screenshots/mvvm_architecture.png width = "700"> |
 |<img src=screenshots/list.png width = "350"> |
 |<img src=screenshots/details.png width = "350"> |
